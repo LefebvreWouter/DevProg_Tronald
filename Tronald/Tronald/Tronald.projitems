@@ -44,7 +44,6 @@
       <DependentUpon>ErrorPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)View\NoNetworkPage.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)View\NetworkViewPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Model\" />

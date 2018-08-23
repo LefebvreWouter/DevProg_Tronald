@@ -13,7 +13,7 @@ namespace Tronald
 		public App ()
 		{
             MainPage = CrossConnectivity.Current.IsConnected
-        ? (Page)new NetworkViewPage()
+        ? (Page)new NoNetworkPage()
         : new NoNetworkPage();
 			InitializeComponent();
 
