@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{498BD217-71B1-4A90-B951-737EE87C3ED6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tronald/MainPage.xaml">
+    <Files>
+      <File FileName="Tronald/View/DetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Tronald/View/DetailPage.xaml" Line="25" Column="37" />
+      <File FileName="Tronald/Model/OverviewTag.cs" Line="1" Column="1" />
+      <File FileName="Tronald/Model/Quote.cs" Line="13" Column="71" />
+      <File FileName="Tronald/MainPage.xaml" Line="19" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tronald.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4F033A11-07FA-4BDE-A771-C1742F59C383" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tronald.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
